@@ -7,4 +7,4 @@ I was curious to see how the latest open source text generation would react to t
 
 Then, during [National Novel Generation Month](https://nanogenmo.github.io/) in November 2021, I wrote the part of the bot that [tweeted](https://twitter.com/goodstorybot) a random choice of one of its really good stories every day during the month.
 
-This repository contains the notebook used to generate the stories and the script used to tweet them.
+This repository contains the notebook used (on Google Colab) to generate the stories and the script used to tweet them.
