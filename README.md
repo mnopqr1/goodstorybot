@@ -5,6 +5,6 @@ One day, a friend sent me a link to a [wonderfully weird list of sentences](http
 
 I was curious to see how the latest open source text generation would react to these seemingly random sentences. A Colab notebook made available by the EleutherAI collective made this incredibly simple.
 
-Then, during [National Novel Generation Month](https://nanogenmo.github.io/), I wrote the part of the bot that [tweets](https://twitter.com/goodstorybot) a random choice of one of its really good stories every day. 
+Then, during [National Novel Generation Month](https://nanogenmo.github.io/), I wrote the part of the bot that [tweeted](https://twitter.com/goodstorybot) a random choice of one of its really good stories every day during the month.
 
 This repository contains the notebook used to generate the stories and the script used to tweet them.
